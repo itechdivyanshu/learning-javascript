@@ -17,3 +17,7 @@ console.log(iAmLocal1); //prints value cause its global
  * var is used to create a global variable
  * let inside a scope creates a local variable i.e cant be accessed outside the scope
  */
+
+/**
+ * if we dont use let/var/const in front of a variable it is declared as a global variable
+ */
